@@ -1,0 +1,15 @@
+init.d:
+  /etc/init.d
+
+jenkins:
+  /var/lib/jnekins
+
+nginx:
+  /etc/nginx
+
+redmine:
+  /var/lib/redmine
+
+sysconfig:
+  /etc/sysconfig
+
